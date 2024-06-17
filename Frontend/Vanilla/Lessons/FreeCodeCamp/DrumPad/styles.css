@@ -1,0 +1,30 @@
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-size: 24px;
+  }
+  
+  .drum-container {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-template-rows: repeat(3, 100px);
+    grid-template-columns:repeat(3, 100px);
+  }
+  
+  .drum-pad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    margin: 10px;
+    padding: 20px;
+  }

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RegisterPage</string>
+
+    <array name="countryNames">
+        <item>Australia</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+    </array>
+
+</resources>
